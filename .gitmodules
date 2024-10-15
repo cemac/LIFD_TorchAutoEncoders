@@ -1,3 +1,0 @@
-[submodule "LIFD_TorchAutoEncoders"]
-	path = LIFD_TorchAutoEncoders
-	url = git@github.com:cemac/LIFD_TorchAutoEncoders.git
