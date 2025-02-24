@@ -11,15 +11,15 @@
 
 [![GitHub release](https://img.shields.io/github/release/cemac/LIFD_TorchAutoEncoders.svg)](https://github.com/cemac/LIFD_TorchAutoEncoders/releases) [![GitHub top language](https://img.shields.io/github/languages/top/cemac/LIFD_TorchAutoEncoders.svg)](https://github.com/cemac/LIFD_TorchAutoEncoders) [![GitHub issues](https://img.shields.io/github/issues/cemac/LIFD_TorchAutoEncoders.svg)](https://github.com/cemac/LIFD_TorchAutoEncoders/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/cemac/LIFD_TorchAutoEncoders.svg)](https://github.com/cemac/LIFD_TorchAutoEncoders/commits/master) [![GitHub All Releases](https://img.shields.io/github/downloads/cemac/LIFD_TorchAutoEncoders/total.svg)](https://github.com/cemac/LIFD_TorchAutoEncoders/releases) ![GitHub](https://img.shields.io/github/license/cemac/LIFD_TorchAutoEncoders.svg)
 
-## Recommended Background Reading
 
 
-## Quick look
-
-If you want a quick look at the contents inside the notebook before deciding to run it please view the [md file](https://github.com/cemac/LIFD_TorchAutoEncoders/blob/main/AutoEncoders.md) generated (*note some HTML code not fully rendered*)
 
 
-### Quick start
+## Installation and Requirements
+
+
+This tutorial is designed to be run on the Leeds GPU machines following the [howtorun](https://github.com/cemac/LIFD_CDT_ML_NOTEBOOKS/blob/main/howtorun.md) instructions.
+
 
 **Running Locally**
 
@@ -32,11 +32,6 @@ conda env create -f AE.yml
 conda activate AE
 jupyter-notebook
 ```
-
-## Installation and Requirements
-
-This notebook is designed to run on a laptop with no special hardware required therefore recommended to do a local installation as outlined in the repository [howtorun](https://github.com/cemac/LIFD_ENV_ML_NOTEBOOKS/howtorun.md) and [jupyter_notebooks](https://github.com/cemac/LIFD_ENV_ML_NOTEBOOKS/jupyter_notebooks.md) sections.
-
 
 # Licence information #
 
